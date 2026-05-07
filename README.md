@@ -55,7 +55,7 @@ otr/
 2. Configurar XAMPP:
    - Iniciar Apache y MySQL en XAMPP
    - Crear base de datos `otr` en phpMyAdmin
-   - Importar la estructura de la tabla `wp_reclamos_otr`
+   - Importar el archivo `otr.sql` o la estructura de la tabla `wp_reclamos_otr`
 
 3. Configurar WordPress:
    - Acceder a `http://localhost/OTR/wordpress/`
