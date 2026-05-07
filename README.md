@@ -1,4 +1,4 @@
-# ACTIVIDAD 5: EVOLUCIÓN Y MEJORA DEL PROYECTO INTEGRADOR - MODIFICACIÓN DE LAS ACTIVIDADES 1 Y 2 - PWD 7° 2° Grupo B
+# ACTIVIDAD 8: WORDPRESS & SHORTCODES PERSONALIZADOS Estándar Internacional: P-TECH - Integración Empresarial - PWD 7° 2° Grupo B
 EEST N°1 "Eduardo Ader" - 7° 2º Año - Prof. York
 
 ## 📅 Descripción del Proyecto
